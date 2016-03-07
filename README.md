@@ -21,7 +21,8 @@ este repositório contém os ficheiros iniciais do workshop Simulações Interac
 
 	Curso de nível intermédio em Processing
 
-	Entusiastas de artes digitais, criadores nas áreas da imagem e som, pessoas com conhecimentos informáticos iniciais
+	Entusiastas de artes digitais, criadores nas áreas da imagem e som,
+	pessoas com conhecimentos informáticos iniciais
 
 	Quando|Onde:
 	10:00 – 13:00 | 14:30 – 17:30 @ Lab de Artes Digitais
@@ -36,7 +37,9 @@ este repositório contém os ficheiros iniciais do workshop Simulações Interac
 	3. deszipar as libraries deste workshop para a pasta libraries do sketchbook, ie, 
 		wkssimulinter/libraries/*  --> sketchbook/libraries
 	(se a pasta libraries não existir basta criá-la)
-	4. copiar a pasta 'WksSimulacoesInteractivas' para o sketchbook (para abrir os exemplos do workshop através de processing->file->sketchbook) 
+	4. copiar a pasta 'WksSimulacoesInteractivas' para o sketchbook
+	 (para abrir os exemplos do workshop através de 
+	 processing->file->sketchbook) 
 
 ######Wks Simulações Interactivas (árvore do workshop)
 
